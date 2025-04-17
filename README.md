@@ -54,4 +54,16 @@ I’ve contributed to national-level infrastructure at **CAMTEL**, and I’m con
 > “Security is not a product, but a process.” – Bruce Schneier  
 Let’s build safer systems, one commit at a time.
 
+## 🧠 Cyber Security Blogs (Africa-Focused)
+
+Here are some insightful reads on the state of cybersecurity in Africa — trends, challenges, and innovations driving the continent's digital defense:
+
+- 🌍 [Cybersecurity in Africa: The Rising Threat and Opportunity](https://www.weforum.org/agenda/2022/10/africa-cybersecurity-ict-challenges/) – *World Economic Forum*
+- 🔐 [The Future of Cybersecurity in Africa](https://www.africacybersecurityreport.com/) – *Serianu Cybersecurity Report*
+- 🛡️ [Cyber Threat Intelligence in Africa: Emerging Patterns](https://africacybersecuritymagazine.com/cyber-threat-intelligence-in-africa/) – *Africa Cyber Security Magazine*
+- 💻 [Building Cyber Resilience Across Africa](https://www.kaspersky.com/blog/cybersecurity-africa-2023/46295/) – *Kaspersky Africa*
+- 📊 [Cameroon's Cybersecurity Strategy and National Digital Development](https://ictbusiness.biz/article/cameroon-cybersecurity-digital-infrastructure) – *ICT Business Africa*
+- 📖 [African Union’s Convention on Cyber Security & Data Protection](https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection) – *AU Official Website*
+
+> 💡 *Want to stay up to date? Follow [Africa Cyber Security Magazine](https://africacybersecuritymagazine.com/) for curated African cyber security news and insights.*
 
