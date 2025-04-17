@@ -7,9 +7,9 @@
 ---
 
 ## 🛡️ Who I Am
-I’m a results-driven cyber security analyst with a background in **network engineering**, **secure system development**, and **cloud infrastructure**. I thrive at the intersection of security and innovation, actively building solutions that enhance digital safety and performance.
+I’m a results-driven **Cyber Security Analyst** with a background in **network engineering**, **secure system development**, and **cloud infrastructure**. I thrive at the intersection of security and innovation, actively building solutions that enhance digital safety and performance.
 
-I’ve contributed to national-level infrastructure at **CAMTEL**, and I’m constantly growing my skills in **pentesting, automation, React development**, and **digital transformation**.
+I’ve contributed to national-level infrastructure at **CAMTEL**, and I’m constantly growing my skills in **pentesting**, **automation**, **React development**, and **digital transformation**.
 
 ---
 
@@ -25,7 +25,7 @@ I’ve contributed to national-level infrastructure at **CAMTEL**, and I’m con
 - 🛰️ **Fiber Code Generator Tool** – CAMTEL web tool to standardize and generate fiber tracking codes (React-based)
 - 🧠 **Domain Controller Setup** – Managed user authentication, policies, and secure network access
 - 📬 **Enterprise Mailing System** – Developed a complete internal email platform for CAMTEL staff
-- 🌐 [serviceikome.com](https://serviceikome.com) – Logistics and travel hub
+- 🌐 [trippingkings.com](https://trippingkings.com) – Logistics and travel hub
 - 🛍️ **IkElite Gadgets** – E-commerce brand focused on gadgets and tech
 - 🚗 **Yango-Style Ride App** *(in development)* – On-demand transportation platform for local markets
 
@@ -41,15 +41,17 @@ I’ve contributed to national-level infrastructure at **CAMTEL**, and I’m con
 
 ## 📊 GitHub Stats
 
-![Ikome’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ikomeemmanuel&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikomeemmanuel&layout=compact&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikomeemmanuel&theme=github-dark)
+![Ikome’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ikomeemmaniel&show_icons=true&count_private=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikomeemmaniel&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikomeemmaniel&theme=github-dark)
 
 ---
 
 ## 👀 Visitor Stats
 
-![Visitor Count](https://profile-counter.glitch.me/ikomeemmanuel/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ikomeemmaniel/count.svg)
 
 > “Security is not a product, but a process.” – Bruce Schneier  
 Let’s build safer systems, one commit at a time.
+
+
